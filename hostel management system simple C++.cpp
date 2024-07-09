@@ -7,7 +7,7 @@ class login{
 		string username,passward;
 		bool islogin()
 		{
-		string ch_username="jawad",ch_passward="1234";
+		string ch_username="Moiz",ch_passward="1234";
 	cout<<"Enter username ::\t";
 	cin>>username;
 	cout<<"Enter passward  ::\t";
